@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Bein Sports 1",
+    "logo": "https://example.com/logo1.png",
+    "url": "https://example.com/stream1"
+  },
+  {
+    "name": "Bein Sports 2",
+    "logo": "https://example.com/logo2.png",
+    "url": "https://example.com/stream2"
+  }
+]
