@@ -8,5 +8,30 @@
     "name": "Bein Sports 2",
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
     "url": "https://taraftariumgo.pro/channel/watch/bein-sports-2"
-  }
+  },
+  {
+    "name": "Sport TV 1",
+    "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1582",
+    "url": "https://sportzonline.ps/channels/pt/sporttv1.php"
+  },
+  {
+    "name": "Sport TV 2",
+    "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1584",
+    "url": "https://sportzonline.ps/channels/pt/sporttv2.php"
+  },
+  {
+    "name": "Sport TV 3",
+    "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1585",
+    "url": "https://sportzonline.ps/channels/pt/sporttv3.php"
+  },
+  {
+    "name": "Sport TV 4",
+    "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1586",
+    "url": "https://sportzonline.ps/channels/pt/sporttv4.php"
+  },
+  {
+    "name": "Sport TV 5",
+    "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1587",
+    "url": "https://sportzonline.ps/channels/pt/sporttv5.php"
+  },
 ]
