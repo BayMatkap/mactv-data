@@ -1,12 +1,12 @@
 [
   {
     "name": "Bein Sports 1",
-    "logo": "https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
     "url": "https://example.com/stream1"
   },
   {
     "name": "Bein Sports 2",
-    "logo": "https://images.seeklogo.com/logo-png/48/2/bein-sports-2-logo-png_seeklogo-481584.png",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
     "url": "https://example.com/stream2"
   }
 ]
