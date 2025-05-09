@@ -10,16 +10,15 @@
     "url": "https://24taraftarium.pro/channel/watch/bein-sports-2"
   },
   {
-    "name": "GSvTS Özel Yayın",
-    "logo": "",
-    "url": "https://sportzonline.si/channels/hd/hd11.php"
+    "name": "Bein Sports 1 - JUSTIN",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
+    "url": "https://justintvde.com/channel.html?id=yayinstar"
   },
   {
-    "name": "MACTADİ",
-    "logo": "",
-    "url": "https://bit.ly/m/mactadi"
+    "name": "Bein Sports 2 - JUSTIN",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
+    "url": "https://justintvde.com/channel.html?id=yayinb2"
   },
-  
   {
     "name": "Sport TV 1",
     "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1582",
@@ -42,7 +41,22 @@
   },
   {
     "name": "Sport TV 5",
-    "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1587",
+    "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=X",
     "url": "https://sportzonline.ps/channels/pt/sporttv5.php"
+  },
+  {
+    "name": "Eleven 1",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=3194",
+    "url": "https://sportsonline.si/channels/pt/eleven1.php"
+  },
+  {
+    "name": "Eleven 2",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=3195",
+    "url": "https://sportsonline.si/channels/pt/eleven2.php"
+  },
+  {
+    "name": "Eleven 3",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=3196",
+    "url": "https://sportsonline.si/channels/pt/eleven3.php"
   }
 ]
