@@ -9,6 +9,16 @@
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
     "url": "https://24taraftarium.pro/channel/watch/bein-sports-2"
   },
+   {
+    "name": "Bein Sports 1 - TARAFTARİUMHD1",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
+    "url": "https://taraftariumhd1.pro/channel/watch/bein-sports-1"
+  },
+  {
+    "name": "Bein Sports 2 - TARAFTARİUMHD1",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
+    "url": "https://taraftariumhd1.pro/channel/watch/bein-sports-2"
+  },
   {
     "name": "Bein Sports 1 - JUSTIN",
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
@@ -18,6 +28,26 @@
     "name": "Bein Sports 2 - JUSTIN",
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
     "url": "https://justintvde.com/channel.html?id=yayinb2"
+  },
+  {
+    "name": "Bein Sports 1 - HDMACLAR",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
+    "url": "https://hdmaclar1.eu/channel/watch/bein-sports-1"
+  },
+  {
+    "name": "Bein Sports 2 - HDMACLAR",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
+    "url": "https://hdmaclar1.eu/channel/watch/bein-sports-2"
+  },
+  {
+    "name": "Bein Sports 1 - İZLEMAC",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
+    "url": "https://izlemac2168.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=5062"
+  },
+  {
+    "name": "Bein Sports 2 - İZLEMAC",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
+    "url": "https://izlemac2168.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=5063"
   },
   {
     "name": "Bein Sports 1 - MACKEYFİ",
