@@ -10,16 +10,6 @@
     "url": "https://24taraftarium.pro/channel/watch/bein-sports-2"
   },
   {
-    "name": "Bein Sports 1 - TARAFTARİUMDEV",
-    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
-    "url": "https://taraftarium.dev/channel.html?id=yayinstar"
-  },
-  {
-    "name": "Bein Sports 2 - TARAFTARİUMDEV",
-    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
-    "url": "https://taraftarium.dev/channel.html?id=yayinb2"
-  },
-  {
     "name": "Bein Sports 1 - JUSTIN",
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
     "url": "https://justintvde.com/channel.html?id=yayinstar"
@@ -28,6 +18,16 @@
     "name": "Bein Sports 2 - JUSTIN",
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
     "url": "https://justintvde.com/channel.html?id=yayinb2"
+  },
+  {
+    "name": "Bein Sports 1 - MACKEYFİ",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
+    "url": "https://www.mackeyfi501.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=5062"
+  },
+  {
+    "name": "Bein Sports 2 - MACKEYFİ",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1592",
+    "url": "https://www.mackeyfi501.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=5063"
   },
   {
     "name": "Bein Sports 1 - TUTV",
