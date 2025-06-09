@@ -3,6 +3,7 @@
     "name": "Bein Sports 1",
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=1591",
     "url": "https://macizlevip315.shop/wp-content/themes/ikisifirbirdokuz/match-center.php?id=5062"
+    "category": "Bein Sports 1"
   },
   
 
@@ -13,40 +14,48 @@
     "name": "Sport TV 1",
     "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1582",
     "url": "https://sportzonline.si/channels/pt/sporttv1.php"
+    "category": "Sport TV 1"
   },
   {
     "name": "Sport TV 2",
     "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1584",
     "url": "https://sportzonline.si/channels/pt/sporttv2.php"
+    "category": "Sport TV 2"
   },
   {
     "name": "Sport TV 3",
     "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1585",
     "url": "https://sportzonline.si/channels/pt/sporttv3.php"
+    "category": "Sport TV 3"
   },
   {
     "name": "Sport TV 4",
     "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=1586",
     "url": "https://sportzonline.si/channels/pt/sporttv4.php"
+    "category": "Sport TV 4"
   },
   {
     "name": "Sport TV 5",
     "logo": "https://img.ss-iptv.com/?action=getChannelLogo&id=X",
     "url": "https://sportzonline.si/channels/pt/sporttv5.php"
+    "category": "Sport TV 5"
   },
   {
     "name": "Eleven 1",
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=3194",
     "url": "https://sportsonline.si/channels/pt/eleven1.php"
+    "category": "DAZN 1"
   },
   {
     "name": "Eleven 2",
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=3195",
     "url": "https://sportsonline.si/channels/pt/eleven2.php"
+    "category": "DAZN 2"
   },
   {
     "name": "Eleven 3",
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=3196",
     "url": "https://sportsonline.si/channels/pt/eleven3.php"
+    "category": "DAZN 3"
   }
 ]
