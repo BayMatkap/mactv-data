@@ -70,5 +70,11 @@
     "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=3196",
     "url": "https://sportsonline.si/channels/pt/eleven3.php",
     "category": "DAZN 3"
+  },
+  {
+    "name": "gogol",
+    "logo": "http://img.ss-iptv.com/?action=getChannelLogo&id=3196",
+    "url": "https://google.com",
+    "category": "gogol"
   }
 ]
